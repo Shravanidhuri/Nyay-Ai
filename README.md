@@ -5,6 +5,8 @@
 ![Framework](https://img.shields.io/badge/Framework-Flask-black)
 ![Model](https://img.shields.io/badge/Model-LLaMA%203.1%20(8B)-orange)
 
+Built by Shravani Dhuri, Nitin Agrawal, Manasvi Chauhan , Shreya Boda
+
 
 ---
 
