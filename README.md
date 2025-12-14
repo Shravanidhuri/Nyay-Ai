@@ -5,9 +5,7 @@
 ![Framework](https://img.shields.io/badge/Framework-Flask-black)
 ![Model](https://img.shields.io/badge/Model-LLaMA%203.1%20(8B)-orange)
 
-An advanced, context-aware conversational AI assistant designed to make Indian law accessible to everyone. This project, developed by **Yugesh** for [ProjectWorlds.com](https://projectworlds.com/), is not just a Q&A bot; it's a true legal advisor with a persistent memory, capable of having in-depth, stateful conversations.
 
-This was developed as a final year academic project to showcase the power of modern Large Language Models when fine-tuned for specialized domains.
 
 ---
 
@@ -21,7 +19,7 @@ Here is Nyay AI in action, demonstrating its sleek, modern UI and its ability to
 
 Click the thumbnail below to watch a full showcase of Nyay AI in action, including a demonstration of its conversational memory and deep legal knowledge.
 
-[[Nyay AI - Personal AI Law Advisor for India (Project Showcase)](https://youtu.be/KvXmbnJ5wco)]
+
 
 ---
 
