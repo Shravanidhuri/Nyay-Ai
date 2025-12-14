@@ -6,21 +6,6 @@
 ![Model](https://img.shields.io/badge/Model-LLaMA%203.1%20(8B)-orange)
 
 
-
----
-
-## 📸 Project Showcase
-
-Here is Nyay AI in action, demonstrating its sleek, modern UI and its ability to remember the user's name throughout a conversation.
-
-![Nyay AI Showcase](https://raw.githubusercontent.com/projectworldsofficial/Nyay-AI/main/screenshots/1.png)
-
-## 🎬 Watch the Live Demo on YouTube!
-
-Click the thumbnail below to watch a full showcase of Nyay AI in action, including a demonstration of its conversational memory and deep legal knowledge.
-
-
-
 ---
 
 ## ✨ Core Features
